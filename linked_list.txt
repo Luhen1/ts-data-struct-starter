@@ -1,0 +1,10 @@
+insertFirst: Inserts an element at the beginning of the list.
+insertLast: Inserts an element at the end of the list.
+removeFirst: Removes the element at the end of the list.
+remove: Removes an element with a given key.
+contains: Checks to see if an element with a given key is in the list.
+isEmpty: Checks to see if the list contains any nodes other than head or tail.
+getFirst: Retrieve the first element in the list without removing it.
+
+
+https://betterprogramming.pub/basic-data-structures-in-typescript-7261d2be44ed
