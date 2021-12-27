@@ -1,0 +1,7 @@
+enqueue -> insert element at the rear of the queue
+dequeue -> remove element at the front of the queue
+isEmpty -> Check if the queue is empty
+Peek -> Peek at the front element without removing the front element 
+isfull -> Check if the queue is full
+size -> Get the size of the queue. same as length of the queue 
+
